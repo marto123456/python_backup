@@ -9,3 +9,6 @@ Create a shared network folder or a local folder on the computer where the backu
 In my script, that position is c:/Users/user/Desktop/project.  ###Edit this value as per your need
 
 You can clone or download this project into pycharm and enhance it as per your desire.
+
+This script uses paramiko. The paramiko module has been used to create a module called marto.
+Importing marto into our project gives it all the benefits of paramiko.
